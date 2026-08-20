@@ -72,7 +72,7 @@ Exam date: November 12, 2019
 
 - Email: trcastro2000@yahoo.com.br
 - GitHub: https://github.com/Tarsis-Castro/
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/tarsis-castro-6288508a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcG2JzQt0Thum%2Bnhd8Aio%2Bw%3D%3D
 
 ## Current Goal
 
