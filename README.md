@@ -1,3 +1,86 @@
+
+# Hi, I’m Tarsis Castro 👋
+
+## About Me
+
+I am an Information Technology professional with experience in systems analysis, functional testing, regression testing, data analysis, automation, and corporate business intelligence solutions.
+
+I currently work at PRODESP in the Corporate Solutions and Corporate Business Intelligence Coordination area.
+
+My academic background includes:
+
+- Bachelor of Business Administration with emphasis in Systems Analysis;
+- Postgraduate studies in Software Engineering and SOA;
+- Specialization in Artificial Intelligence;
+- Specialization in Bioinformatics;
+- Postgraduate studies in Artificial Intelligence and Health Data Science.
+
+I am developing my research interests in Bioinformatics and Data Science, focusing on cancer etiology, biomedical data, omics data, and reproducible computational methods.
+
+## Research Interests
+
+- Bioinformatics;
+- Biomedical Data Science;
+- Cancer etiology;
+- Genomic data analysis;
+- Transcriptomics and metabolomics;
+- Multi-omics data integration;
+- Biomarker discovery;
+- Interpretable machine learning;
+- Reproducible bioinformatics pipelines;
+- Software quality in computational research.
+
+## Professional Experience
+
+- Functional testing;
+- Regression testing;
+- Data analysis;
+- Python;
+- n8n automation;
+- Corporate business intelligence;
+- Systems analysis;
+- Software quality assurance.
+
+## Certification
+
+**ISTQB® Certified Tester — Foundation Level (CTFL)**
+
+Certificate ID: 19-CTFL-09735-BR  
+Exam date: November 12, 2019
+
+## Selected Projects
+
+- Cancer etiology and biomedical data analysis;
+- Cancer prediction using machine learning;
+- Bioinformatics and omics data analysis;
+- Bioinformatics pipeline quality assurance;
+- Biomedical data visualization.
+
+## Technologies
+
+- Python;
+- Pandas;
+- Scikit-learn;
+- Jupyter Notebook;
+- n8n;
+- Git and GitHub;
+- SQL;
+- Data visualization;
+- Software testing.
+
+## Contact
+
+- Email: trcastro2000@yahoo.com.br
+- GitHub: https://github.com/Tarsis-Castro/
+- LinkedIn: Add your LinkedIn profile here
+
+## Current Goal
+
+I am preparing a PhD application in Bioinformatics and Data Science, with research interests in cancer etiology, biomedical data analysis, and reproducible computational research.
+
+
+
+
 # Olá! Eu sou Tarsis Castro 👋
 
 ## Sobre mim
