@@ -1,5 +1,3 @@
-### Olá! Eu sou Tarsis Castro ✌️
-
 # Olá! Eu sou Tarsis Castro 👋
 
 ## Sobre mim
