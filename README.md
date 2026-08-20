@@ -1,28 +1,80 @@
 ### Olá! Eu sou Tarsis Castro ✌️
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarsis-Castro)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarsis-castro-6288508a/)
-![TESTING LIBRARY](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+# Olá! Eu sou Tarsis Castro 👋
 
-![Tarsis-Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarsis-Castro&show_icons=true&theme=merko)
+## Sobre mim
 
-## Tecnologia que uso no meu dia 
+Sou profissional de Tecnologia da Informação, com experiência em análise de sistemas, testes funcionais, testes de regressão, análise de dados, automação e soluções corporativas de inteligência de negócios.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Anaconda"src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-     <img align="center" alt="Jupyter"src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-     <img align="center" alt="MATPLOTLIB"src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-     <img align="center" alt="NUMPY"src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-     <img align="center" alt="SCIKIT-LEARN"src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-</div><br/>
+Atualmente trabalho na PRODESP, na Coordenadoria de Soluções Corporativas e BI Corporativos.
 
-Apaixonado por Inteligência Artificial, acredito que a IA possa ajudar demais as pessoas
+Minha formação acadêmica inclui:
 
-## CONTATOS:
-- Email : trcastro2000@yahoo.com.br/trcastro2000@gmail.com.br
+- Bacharelado em Administração com ênfase em Análise de Sistemas;
+- Pós-graduação em Engenharia de Software e SOA;
+- Especialização em Inteligência Artificial;
+- Especialização em Bioinformática;
+- Pós-graduação em Inteligência Artificial e Ciência de Dados em Saúde.
 
+Estou desenvolvendo meus interesses de pesquisa em Bioinformática e Ciência de Dados, com foco em etiologia do câncer, dados biomédicos, dados ômicos e métodos computacionais reprodutíveis.
+
+## Interesses de pesquisa
+
+- Bioinformática;
+- Ciência de Dados biomédicos;
+- Etiologia do câncer;
+- Análise de dados genômicos;
+- Transcriptômica e metabolômica;
+- Integração de dados multiômicos;
+- Descoberta de biomarcadores;
+- Aprendizado de máquina interpretável;
+- Pipelines reprodutíveis de Bioinformática;
+- Qualidade de software em pesquisa computacional.
+
+## Experiência profissional
+
+- Testes funcionais;
+- Testes de regressão;
+- Análise de dados;
+- Python;
+- Automação com n8n;
+- Inteligência de negócios corporativa;
+- Análise de sistemas;
+- Garantia da qualidade de software.
+
+## Certificação
+
+**ISTQB® Certified Tester — Foundation Level (CTFL)**  
+ID do certificado: 19-CTFL-09735-BR  
+Data do exame: 12 de novembro de 2019
+
+## Projetos selecionados
+
+- Etiologia do câncer e análise de dados biomédicos;
+- Predição de câncer utilizando aprendizado de máquina;
+- Bioinformática e análise de dados ômicos;
+- Garantia da qualidade de pipelines de Bioinformática;
+- Visualização de dados biomédicos.
+
+## Tecnologias
+
+- Python;
+- Pandas;
+- Scikit-learn;
+- Jupyter Notebook;
+- n8n;
+- Git e GitHub;
+- SQL;
+- Visualização de dados;
+- Testes de software.
+
+## Contato
+
+- E-mail: trcastro2000@yahoo.com.br
+- GitHub: [https://github.com/Tarsis-Castro/](https://github.com/Tarsis-Castro/)
+- LinkedIn: [adicionar perfil do LinkedIn]
+
+## Objetivo atual
+
+Estou me preparando para candidaturas a PhD em Bioinformática e Ciência de Dados, com interesses de pesquisa em etiologia do câncer, análise de dados biomédicos e pesquisa computacional reprodutível.
 
